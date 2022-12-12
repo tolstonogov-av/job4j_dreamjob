@@ -24,3 +24,6 @@ hs_err_pid*
 
 .idea/
 /job4j_dreamjob.iml
+/target/checkstyle-cachefile
+/target/checkstyle-checker.xml
+/target/checkstyle-result.xml
